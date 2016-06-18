@@ -1,5 +1,9 @@
 #README
 
+> Extreme Programming emphasizes teamwork. Managers, customers, and developers are all equal partners in a collaborative team. Extreme Programming implements a simple, yet effective environment enabling teams to become highly productive. The team self-organizes around the problem to solve it as efficiently as possible. 
+
+
+
 The primary self-organization constitution document is [here](CONSTITUTION.md).
 
 **Note:** This version of the constitution is new and being vetted by pioneering organizations. Your feedback as a pioneer, practitioner, or engaged observer is very welcome.
