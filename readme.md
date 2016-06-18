@@ -10,6 +10,14 @@ The primary self-organization constitution document is [here](CONSTITUTION.md).
 * **Evolve** - Define organizational rules and roles iteratively based on the challenges that members experience. Make progress even over perfection.
 * **Evidence** - Base decisions and actions on evidence.
 
+### XP Principles
+
+* **Rapid Feedback** - We try to keep feedback cycles short, in order to adopt fast
+* **Assume Simplicity** - Architectures and Processes should be simple to use and easy to understand
+* **Incremental Change** - We are constantly evolving the organisation and the architecture of the software
+* **Embracing Change** - We need to welcome change and not resist it. 
+* **Quality Work** - High quality work leads to low turnover and less re-work. This is the only theing that helps efficiency and effectiveness at once. 
+
 ###Why is this constitution needed?
 
 Your group of 2-20 people needs a clear way to fulfill its purpose, make decisions, get things done, and respond to change.
